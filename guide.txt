@@ -1,0 +1,33 @@
+As a senior backend developer,
+
+Please learn these important design patterns(at least 2 from every section)👇
+
+1. Creational Patterns
+_______________________
+-Singleton: Ensures a single global instance.
+-Factory Method: Creates objects without specifying classes.
+-Builder: Constructs complex objects step-by-step.
+
+2. Structural Patterns
+_______________________
+-Adapter: Connects incompatible interfaces.
+-Decorator: Dynamically adds functionalities.
+-Facade: Simplifies complex subsystems.
+
+3. Behavioral Patterns
+_______________________
+-Observer: Notifies dependents of state changes.
+-Strategy: Switches algorithms at runtime.
+-Command: Encapsulates requests as objects.
+
+4. Concurrency Patterns( Java specific)
+_____________________________________
+-Thread Pool: Reuses threads for multiple tasks.
+-Future/Promise: Manages async results.
+-Blocking Queue: Safe producer-consumer handling.
+
+5. Architectural Patterns
+___________________________
+-MVC (Model-View-Controller): Separates data, UI, and logic layers.
+-Microservices: Builds applications as loosely coupled services.
+-Event-Driven: Uses events for asynchronous communication.
