@@ -1,4 +1,4 @@
-As a senior backend developer,
+Senior backend developer,
 
 Please learn these important design patterns(at least 2 from every section)👇
 
